@@ -1,8 +1,8 @@
 cask "awake" do
-  version "0.1.0-alpha.2"
-  sha256 "7cada78e2f2be302b3e61697359271928cc3b4823286575f35c91b559848a266"
+  version "0.1.1"
+  sha256 "ed02abb0f6f30c3534ab3b7e5e62b2d6721b6811bf17bf754eb9446b16783969"
 
-  url "https://github.com/anatomic/awake/releases/download/v0.1.0-alpha.2/Awake.zip"
+  url "https://github.com/anatomic/awake/releases/download/v0.1.1/Awake.zip"
   name "Awake"
   desc "macOS menu bar app to prevent system sleep"
   homepage "https://github.com/anatomic/awake"
